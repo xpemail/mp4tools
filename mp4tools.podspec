@@ -8,5 +8,5 @@ s.author = { "wuxiande" => "wuxiande@soooner.com" }
 s.ios.deployment_target = "6.0"
 s.source = { :git => 'https://github.com/xpemail/mp4tools.git', :tag => '1.0.0' }
 s.requires_arc = true
-s.source_files = '*.{h,m,mm}'
+s.source_files = '*.{h,m,mm,pch}'
 end
